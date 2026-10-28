@@ -1,0 +1,74 @@
+# Animode Fun DUB — .gitignore
+
+# --- Large binary data (models, datasets, outputs) ---
+data/
+models/
+outputs/
+uploads/
+externals/
+logs/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+*.whl
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+.conda/
+
+# --- Environment / secrets ---
+.env
+.env.local
+.env.production
+*.env
+
+# --- IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# --- OS ---
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- Jupyter notebooks ---
+.ipynb_checkpoints/
+
+# --- Testing ---
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+
+# --- Misc ---
+*.log
+*.bak
+*.tmp
+*.temp
+
+# Animode local environments and generated media
+.venv-demucs/
+outputs/
+voice_samples/
+.env
+api_data/
+model_cache/
