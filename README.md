@@ -2,24 +2,15 @@
 
 <img src="assets/banner.svg" alt="ANIMODE FUN DUB — Studio Edition" width="100%">
 
-<br>
-
-<img src="https://img.shields.io/badge/STUDIO-GRADIO-00ff9c?style=for-the-badge&labelColor=0b1210" alt="Studio">
-<img src="https://img.shields.io/badge/OUTPUT-MP4%20WAV%20SRT%20VTT%20CSV%20ZIP-00ff9c?style=for-the-badge&labelColor=0b1210" alt="Output">
-<img src="https://img.shields.io/badge/ENGINE-FISH%20SPEECH%20S2--PRO-00ff9c?style=for-the-badge&labelColor=0b1210" alt="Engine">
-<img src="https://img.shields.io/badge/PYTHON-3.11%2B-00ff9c?style=for-the-badge&labelColor=0b1210&logo=python&logoColor=00ff9c" alt="Python">
-<img src="https://img.shields.io/badge/LICENSE-MIT-00ff9c?style=for-the-badge&labelColor=0b1210" alt="License">
-
-<br><br>
+<img src="https://img.shields.io/badge/studio-gradio-047857?style=flat-square&labelColor=1f2937" alt="Studio">
+<img src="https://img.shields.io/badge/output-mp4%20wav%20srt%20vtt%20csv%20zip-047857?style=flat-square&labelColor=1f2937" alt="Output">
+<img src="https://img.shields.io/badge/engine-fish%20speech%20s2--pro-047857?style=flat-square&labelColor=1f2937" alt="Engine">
+<img src="https://img.shields.io/badge/python-3.11%2B-047857?style=flat-square&labelColor=1f2937&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/license-MIT-047857?style=flat-square&labelColor=1f2937" alt="License">
 
 <sub><b>CREATED &amp; MAINTAINED BY</b></sub><br>
-<b>[ ANIMODE FUN DUB ]</b>
-
-<br>
-
-<img src="https://img.shields.io/badge/DEVELOPER-RAIM-00ff9c?style=for-the-badge&labelColor=0b1210" alt="Developer: RAIM">
-
-<br><br>
+<b>[ ANIMODE FUN DUB ]</b><br>
+<img src="https://img.shields.io/badge/developer-RAIM-047857?style=flat-square&labelColor=1f2937" alt="Developer: RAIM">
 
 *Character voices. Editable dialogue. Controlled timelines. Studio exports.*
 
@@ -312,13 +303,8 @@ animode-fun-dub/
 <div align="center">
 
 <sub><b>CREATED &amp; MAINTAINED BY</b></sub><br>
-<b>[ ANIMODE FUN DUB ]</b>
-
-<br>
-
-<img src="https://img.shields.io/badge/DEVELOPER-RAIM-00ff9c?style=for-the-badge&labelColor=0b1210" alt="Developer: RAIM">
-
-<br>
+<b>[ ANIMODE FUN DUB ]</b><br>
+<img src="https://img.shields.io/badge/developer-RAIM-047857?style=flat-square&labelColor=1f2937" alt="Developer: RAIM">
 
 © 2026 Animode Fun DUB · MIT License
 
