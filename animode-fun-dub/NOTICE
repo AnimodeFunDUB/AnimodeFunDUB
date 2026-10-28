@@ -1,0 +1,12 @@
+Animode Fun DUB Studio
+Copyright (c) 2026 Animode Fun DUB
+Created and maintained by Animode Fun DUB.
+
+Licensed under the MIT License (see LICENSE). Keep this NOTICE and the LICENSE
+file, including the credit line, with every copy or substantial portion of the
+project.
+
+External dependencies and model weights are NOT covered by this license. They
+retain their own licenses and terms, including pyannote, Fish Audio/Fish Speech,
+Meta Demucs/NLLB, Whisper/faster-whisper, FFmpeg, Gradio and FastAPI. Review each
+license before distribution or commercial use.

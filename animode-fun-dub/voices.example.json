@@ -1,0 +1,14 @@
+{
+  "SPEAKER_00": {
+    "name": "Hero",
+    "audio": "voice_samples/hero.wav",
+    "text": "Replace this with the exact words spoken in hero.wav.",
+    "style": "energetic, confident"
+  },
+  "SPEAKER_01": {
+    "name": "Rival",
+    "audio": "voice_samples/rival.wav",
+    "text": "Replace this with the exact words spoken in rival.wav.",
+    "style": "calm, low voice"
+  }
+}
